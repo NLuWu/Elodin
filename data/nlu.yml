@@ -15,7 +15,7 @@ nlu:
     - hey dude
     - goodmorning
     - goodevening
-    - good afternoon
+    - good aftermorning
 
 - intent: goodbye
   examples: |
